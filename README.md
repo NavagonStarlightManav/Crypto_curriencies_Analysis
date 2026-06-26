@@ -116,7 +116,8 @@ The analysis is based on historical cryptocurrency market data containing over *
 
 ## Dashboard Preview
 <img width="1344" height="805" alt="Dashboard_Visual" src="https://github.com/user-attachments/assets/dac96aef-a10b-4581-b6cd-6e1d00352953" />
-<img width="1345" height="802" alt="Price_Trends_Analysis" src="https://github.com/user-attachments/assets/8f572f4b-f726-460b-958a-6e9027f107d7" />
+
+### <img width="1345" height="802" alt="Price_Trends_Analysis" src="https://github.com/user-attachments/assets/8f572f4b-f726-460b-958a-6e9027f107d7" />
 
 
 
